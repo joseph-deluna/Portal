@@ -1,5 +1,5 @@
 # Portal
-"Make life like an RPG game"
+"Make life RPG"
 
 Authentic Digital Identity - Government documents verification, biometrics verification
 Content Rights system
